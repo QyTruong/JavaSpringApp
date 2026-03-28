@@ -1,0 +1,16 @@
+com\pqt\pojo\ProdTag.class
+com\pqt\pojo\Comment.class
+com\pqt\pojo\User.class
+com\pqt\pojo\Product.class
+com\pqt\repositories\impl\CategoryRepositoryImpl.class
+com\pqt\pojo\SaleOrder.class
+com\pqt\hibernatedemo\HibernateDemo.class
+com\pqt\repositories\impl\UserRepositoryImpl.class
+com\pqt\repositories\impl\StatsRepositoryImpl.class
+com\pqt\pojo\CartItem.class
+com\pqt\pojo\OrderDetail.class
+com\pqt\repositories\impl\ReceiptRepositoryImpl.class
+com\pqt\hibernatedemo\HibernateUtils.class
+com\pqt\repositories\impl\ProductRepositoryImpl.class
+com\pqt\pojo\Category.class
+com\pqt\pojo\Tag.class
